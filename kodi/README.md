@@ -1,5 +1,5 @@
 # Minu pluginad
-##  Versioon: 1.0.0
+##  Versioon: 1.0.1
 
 Repo lisamise õpetus:
 
@@ -22,7 +22,7 @@ Repo lisamise õpetus:
     <img src="assets/9.png" alt="9">
     <img src="assets/10.png" alt="10">
     <img src="assets/11.png" alt="11">
-    <li> Vali "Yllar Repo" ja paigalda <a href="repo/repository.yllar-1.0.0.zip">repository.yllar-1.0.0.zip</a>.</li>
+    <li> Vali "Yllar Repo" ja paigalda <a href="repo/repository.yllar-1.0.1.zip">repository.yllar-1.0.1.zip</a>.</li>
     <img src="assets/12.png" alt="12">
     <img src="assets/13.png" alt="13">
     <img src="assets/14.png" alt="14">
@@ -45,7 +45,7 @@ Instructions for adding this repo:
     <li>Click on "Add source"</li>
     <li>The path for the source is <code>https://yllar.github.io/repo/</code> (Give it the name "Yllar Repo").</li>
     <li>Go to "Addons"</li>
-    <li>In Addons, install an addon from zip.  When it asks for the location, select "Yllar Repo", and install <a href="repo/repository.yllar-1.0.0.zip">repository.yllar-1.0.0.zip</a>.</li>
+    <li>In Addons, install an addon from zip.  When it asks for the location, select "Yllar Repo", and install <a href="repo/repository.yllar-1.0.1.zip">repository.yllar-1.0.1.zip</a>.</li>
     <li>Go back to Addons install, but this time, select "Install from repository"</li>
     <li>Select the "Yllar Repository"</li>
     <li>Go into the "Video add-ons" section in the repo, and you'll find my plugins</li>
